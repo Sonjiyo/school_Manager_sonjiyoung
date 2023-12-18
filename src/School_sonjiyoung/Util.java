@@ -1,4 +1,4 @@
-package School_손지영Ver4;
+package School_sonjiyoung;
 
 import java.io.BufferedReader;
 import java.io.File;

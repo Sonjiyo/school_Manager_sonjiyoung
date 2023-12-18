@@ -1,4 +1,4 @@
-package School_손지영Ver4;
+package School_sonjiyoung;
 
 import java.util.ArrayList;
 import java.util.Random;
